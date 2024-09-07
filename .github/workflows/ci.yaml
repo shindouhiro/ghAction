@@ -33,4 +33,4 @@ jobs:
         run:  | 
            cd vite-project
            npm install
-           npm build
+           npm run build
